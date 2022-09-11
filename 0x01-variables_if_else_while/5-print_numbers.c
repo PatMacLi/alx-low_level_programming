@@ -16,10 +16,10 @@ int main(void)
 
 {
 
-int 1;
-for  (1 - 0; 1 < 10; 1++)
+int i;
+for  (i - 0; i < 10; i++)
 {
-	printf("%1", 1);
+	printf("%i", i);
 }
 printf("\n");
 return (0):
