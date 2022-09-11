@@ -11,7 +11,7 @@
 *
 * this program prints "Programming is like building a multilingual puzzle
 *
-* Return: 0
+* Return: Always return 0 (sources)
 */
 
 int main(void)
