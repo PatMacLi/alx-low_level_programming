@@ -3,13 +3,12 @@
 
 
 /**
-*
-* main - entry point
+* Main - entry point
 * Description- using the main function
 
 * this program prints "Programming is like building a multilingual puzzle
 
-* Return: 0
+* Return: Always return 0 (sources)
 
 */
 
