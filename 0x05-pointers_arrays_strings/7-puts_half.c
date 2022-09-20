@@ -5,8 +5,7 @@
 
 
 /**
-*
-* puts_half - prints a string
+*puts_half - prints a string
 *
 * @str: string to print
 *
@@ -37,15 +36,14 @@ void puts_half(char *str)
 
 
 /**
-
 * _strlen - returns the length of a string
-
-* @s: string
-
 *
-
+* @s: string
+*
+*
+*
 * Return: the length of the given string
-
+*
 */
 
 

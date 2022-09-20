@@ -42,15 +42,14 @@ void rev_string(char *s)
 
 
 /**
-
 * _strlen - returns the length of a string
-
-* @s: string
-
 *
-
+* @s: string
+*
+*
+*
 * Return: the length of the given string
-
+*
 */
 
 
