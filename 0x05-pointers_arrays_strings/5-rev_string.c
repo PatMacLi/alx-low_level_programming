@@ -5,7 +5,7 @@
 
 
 /**
-* rev_string - Reverses a string
+*rev_string - Reverses a string
 *
 * @s: string to be reversed
 *
