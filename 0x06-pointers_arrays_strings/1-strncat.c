@@ -1,4 +1,4 @@
-a#include "main.h"
+#include "main.h"
 
 /**
 *_strncat - concatenate two strings but add inputted number of bytes

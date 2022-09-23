@@ -7,8 +7,6 @@
 *
 *  @s: string to capitalize
 *
-* 
-*
 *  Return: address of s
 *
 */
@@ -30,7 +28,6 @@ char *cap_string(char *s)
 		if (*(s + i) >= 'a' && *(s + i) <= 'z')
 
 		{
-
 			if (i == 0)
 
 				*(s + i) -= 'a' - 'A';
@@ -38,11 +35,9 @@ char *cap_string(char *s)
 			else
 
 			{
-
 				for (j = 0; j <= 12; j++)
 
 				{
-
 					if (a[j] == *(s + i - 1))
 
 						*(s + i) -= 'a' - 'A';
@@ -54,7 +49,6 @@ char *cap_string(char *s)
 		}
 
 		i++;
-
 	}
 
 	return (s);
