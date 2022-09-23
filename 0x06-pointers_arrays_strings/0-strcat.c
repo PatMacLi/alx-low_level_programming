@@ -11,9 +11,7 @@
 *
 *@src: String to be concatenated upon
 *
-*
-*
-* Return - returns poiner to @dest
+*return - returns poiner to @dest
 *
 */
 
