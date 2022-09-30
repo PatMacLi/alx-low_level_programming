@@ -16,33 +16,15 @@
 *                                                                                                                                   
 * Return - Always 0 (Success)                                                                                                        
 *
-*/                                                                                                                                  
-
-                                                                                                                                     
+*/
 
 int main(int argc, char *argv[])                                                                                                     
 
 {                                                                                                                                    
-
-                                                                                                                                     
-
-/*Declaring variables*/                                                                                                              
-
-int count = 0;                                                                                                                       
-
-                                                                                                                                     
-
-if (argc > 0)                                                                                                                        
-
-{                                                                                                                                    
-
-/*WHILE - Print each arguments*/                                                                                                     
-
-while (count < argc)                                                                                                                 
-
-{                                                                                                                                    
-
-printf("%s\n", argv[count]);
-
-
-
+ 	int n;
+	for (n = 0; n < argc; n++)
+	{
+		printf("%s\n", argv[n]);
+	}
+		return (0);
+}                                                                                                                  
